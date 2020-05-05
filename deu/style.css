@@ -11,7 +11,11 @@ h1 {
 h2 {
   color: black;
   font-weight: bold;
+}
 
+.caption_small {
+  color: black;
+  font-weight: bold;
 }
 
 .cite {
@@ -21,3 +25,17 @@ h2 {
 .author.cite {
    
 }
+
+/*        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
