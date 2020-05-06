@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #EEEEEE;
 }
 
 
@@ -29,7 +29,7 @@ h2 {
 .content-box {
 /*  width: 300px; */
   border: 1px solid red;
-  padding: 5px;
+  padding: 10px;
 /*  margin: 20px; */
 }
 
