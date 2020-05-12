@@ -55,9 +55,6 @@ h2 {
   
   background-color: #ffb2ae;	
   display: inline-block;
-  color: red;
-  
-  
 }
 
 
@@ -70,15 +67,13 @@ h2 {
 .layer2 {
   /*border: 1px solid grey;*/
   background-color: #c7d2b8;
-  display: inline-block;  
-  color: red;  	
+  display: inline-block;  	
 }
 
 .layer3 {
   /*border: 1px solid grey;*/
   background-color: #d3dffd;
-  display: inline-block;
-  color: red;    	
+  display: inline-block;  	
 }
 
 .layer4 {
